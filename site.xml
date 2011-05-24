@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/ZKCDTFeature_0.8.0.jar" id="ZKCDTFeature" version="0.8.0"/>
+   <feature url="features/ZKCDTFeature_0.8.0.jar" id="ZKCDTFeature" version="0.8.0">
+      <category name="ZK Component Developing Tool"/>
+   </feature>
+   <feature url="features/ZKCDTFeature_0.9.0.jar" id="ZKCDTFeature" version="0.9.0">
+      <category name="ZK Component Developing Tool"/>
+   </feature>
+   <category-def name="ZK Component Developing Tool" label="zkcdt"/>
 </site>
